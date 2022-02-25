@@ -1,0 +1,18 @@
+body{
+    background-color: #eeedec;
+   
+}
+
+.container{
+    max-width: 600px;
+    
+}
+
+.weather-icon{
+    position: relative;
+    border-radius: 50%;
+    width: 100px;
+    background-color: #eeedec;
+    margin-top: -50px;
+}
+
